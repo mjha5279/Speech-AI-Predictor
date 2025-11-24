@@ -1,7 +1,11 @@
 streamlit
 pandas
+numpy
 scikit-learn
+nltk
 vaderSentiment
 pyspellchecker
-nltk
 openpyxl
+transformers==4.36.2
+sentence-transformers==2.2.2
+torch==2.0.1+cpu -f https://download.pytorch.org/whl/cpu
