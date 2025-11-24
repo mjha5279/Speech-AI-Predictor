@@ -1,11 +1,8 @@
 streamlit
 pandas
-numpy
+openpyxl
 scikit-learn
-nltk
 vaderSentiment
 pyspellchecker
-openpyxl
-onnxruntime
-sentence-transformers==2.2.2
-transformers==4.36.2
+nltk
+sentence-transformers-lite
