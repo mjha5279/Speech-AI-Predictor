@@ -6,6 +6,6 @@ nltk
 vaderSentiment
 pyspellchecker
 openpyxl
-transformers==4.36.2
+onnxruntime
 sentence-transformers==2.2.2
-torch==2.0.1+cpu -f https://download.pytorch.org/whl/cpu
+transformers==4.36.2
